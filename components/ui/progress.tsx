@@ -1,44 +1,34 @@
 // components/ui/progress.tsx
-import * as React from "react";
+"use client";
+
 import { cn } from "@/lib/utils";
 
-interface ProgressProps extends React.HTMLAttributes<HTMLDivElement> {
-  value?: number; // 0-100
-  max?: number;
-  tone?: "default" | "accent" | "green" | "red" | "amber";
+interface Props {
+  value: number; // 0-100
+  tone?: "accent" | "green" | "red" | "default";
+  className?: string;
 }
 
-export function Progress({ value = 0, max = 100, tone = "default", className, ...props }: ProgressProps) {
-  const pct = Math.max(0, Math.min(100, (value / max) * 100));
+const TRACK_BG = "bg-white/8";
 
-  const trackColors = {
-    default: "bg-white/8",
-    accent: "bg-accent/15",
-    green: "bg-emerald-500/15",
-    red: "bg-rose-500/15",
-    amber: "bg-amber-500/15",
-  };
+const FILL_COLOUR: Record<NonNullable<Props["tone"]>, string> = {
+  accent: "bg-purple-400",
+  green: "bg-emerald-400",
+  red: "bg-rose-400",
+  default: "bg-zinc-400",
+};
 
-  const fillColors = {
-    default: "bg-zinc-400",
-    accent: "bg-accent",
-    green: "bg-emerald-400",
-    red: "bg-rose-400",
-    amber: "bg-amber-400",
-  };
-
+export function Progress({ value, tone = "accent", className }: Props) {
+  const clamped = Math.max(0, Math.min(100, value));
   return (
-    <div
-      role="progressbar"
-      aria-valuenow={value}
-      aria-valuemin={0}
-      aria-valuemax={max}
-      className={cn("h-1.5 w-full overflow-hidden rounded-full", trackColors[tone], className)}
-      {...props}
-    >
+    <div className={cn("h-1.5 w-full overflow-hidden rounded-full", TRACK_BG, className)}>
       <div
-        className={cn("h-full rounded-full transition-all duration-500 ease-out", fillColors[tone])}
-        style={{ width: `${pct}%` }}
+        className={cn("h-full rounded-full transition-all duration-700 ease-out", FILL_COLOUR[tone])}
+        style={{ width: `${clamped}%` }}
+        role="progressbar"
+        aria-valuenow={clamped}
+        aria-valuemin={0}
+        aria-valuemax={100}
       />
     </div>
   );

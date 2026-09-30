@@ -1,6 +1,7 @@
 // lib/store.ts
 import seed from "@/data/seed_candidates.json";
 import type { CandidateProfile, DateSimulation } from "@/types";
+import { enrichSeedProfile } from "@/lib/agents/personalityBootstrap";
 
 interface StoreShape {
   candidates: Map<string, CandidateProfile>;
@@ -10,7 +11,14 @@ interface StoreShape {
 const globalRef = globalThis as unknown as { __agenticMatchStore?: StoreShape };
 
 function bootstrap(): StoreShape {
-  const profiles = (seed as CandidateProfile[]).map((c) => ({ ...c, origin: "seed" as const, synthesizedBy: "heuristic" as const }));
+  const profiles = (seed as CandidateProfile[])
+    .map((c) => ({
+      ...c,
+      origin: "seed" as const,
+      synthesizedBy: "heuristic" as const,
+    }))
+    .map(enrichSeedProfile); // inject personality + voiceProfile for all seeds
+
   return {
     candidates: new Map(profiles.map((c) => [c.id, c])),
     simulations: new Map(),

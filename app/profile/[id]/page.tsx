@@ -13,10 +13,14 @@ import {
   CheckCircle2,
   AlertTriangle,
   Briefcase,
+  Brain,
+  Mic2,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { SimulateButton } from "@/components/simulate-button";
+import { PersonalityPanel } from "@/components/personality-panel";
+import { AskAgent } from "@/components/ask-agent";
 import { rankForCandidate } from "@/lib/agents/orchestrator";
 import { getCandidate, listCandidates } from "@/lib/store";
 import { cn, scoreTone } from "@/lib/utils";
@@ -30,7 +34,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
 
   const topMatches = rankForCandidate(id, 5);
   const totalPool = listCandidates().length;
-  const { analysis } = candidate;
+  const { analysis, personality, voiceProfile } = candidate;
 
   return (
     <div className="space-y-6">
@@ -67,6 +71,12 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
               <a href={candidate.instagramUrl} target="_blank" rel="noreferrer" className="flex items-center gap-1.5 transition hover:text-accent-soft">
                 <Instagram className="h-3.5 w-3.5" /> Instagram
               </a>
+              {voiceProfile && (
+                <span className="flex items-center gap-1.5 text-accent-soft/70">
+                  <Mic2 className="h-3.5 w-3.5" />
+                  Voice: {voiceProfile.humorStyle} · {voiceProfile.energyTone}
+                </span>
+              )}
             </div>
           </div>
           <SimulateButton candidateId={candidate.id} />
@@ -74,7 +84,7 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
       </div>
 
       <div className="grid gap-6 lg:grid-cols-[minmax(0,380px)_1fr]">
-        {/* Left: source data snapshot */}
+        {/* Left: source data + personality */}
         <div className="space-y-4">
           <Card>
             <CardHeader>
@@ -118,9 +128,20 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
               <p className="text-[12px] leading-relaxed text-zinc-400">{analysis.professionalAmbition}</p>
             </CardContent>
           </Card>
+
+          {/* Personality Panel */}
+          {personality && (
+            <div>
+              <div className="mb-3 flex items-center gap-2">
+                <Brain className="h-4 w-4 text-purple-400" />
+                <h3 className="text-sm font-semibold text-zinc-300">Personality Architecture</h3>
+              </div>
+              <PersonalityPanel personality={personality} />
+            </div>
+          )}
         </div>
 
-        {/* Right: AI synthesis */}
+        {/* Right: AI synthesis + matches + ask agent */}
         <div className="space-y-4">
           <Card>
             <CardHeader>
@@ -182,6 +203,10 @@ export default async function ProfilePage({ params }: { params: Promise<{ id: st
             </CardContent>
           </Card>
 
+          {/* Ask Your Agent */}
+          <AskAgent candidateId={candidate.id} candidateName={candidate.name} />
+
+          {/* Top Matches */}
           <Card>
             <CardHeader>
               <CardTitle className="text-sm">Top 5 Compatible Agents</CardTitle>
