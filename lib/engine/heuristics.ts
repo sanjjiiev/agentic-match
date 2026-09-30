@@ -144,9 +144,12 @@ export function scorePair(a: CandidateProfile, b: CandidateProfile, rand: () => 
     0.08 * ambition +
     0.06 * geo;
 
-  const blended = 0.55 * raw + 0.2 * ageFit + 0.25 * (raw * 0.5 + 0.5 * (0.5 + rand() * 0.5));
+  // Boost raw score to prevent strict lexical mismatch from capping scores at ~50%
+  const relaxedRaw = Math.min(1, raw + 0.35);
+
+  const blended = 0.55 * relaxedRaw + 0.2 * ageFit + 0.25 * (relaxedRaw * 0.5 + 0.5 * (0.5 + rand() * 0.5));
   const jitter = (rand() - 0.5) * 7;
-  const score = Math.max(14, Math.min(99, Math.round(blended * 118 + jitter - penalty * 100)));
+  const score = Math.max(14, Math.min(99, Math.round(blended * 122 + jitter - penalty * 100)));
 
   const dimensions: CompatibilityDimension[] = [
     { label: "Values Alignment", value: pct(values, rand) },

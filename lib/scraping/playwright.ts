@@ -23,7 +23,7 @@ export async function scrapeLinkedInWithPlaywright(profileUrl: string): Promise<
   }
 
   // Dynamic import to avoid bundling when not enabled
-  const { chromium } = await import("playwright");
+  const { chromium } = await import(/* webpackIgnore: true */ "playwright");
 
   const browser = await chromium.launch({
     headless: true,
@@ -89,7 +89,7 @@ export async function scrapeInstagramWithPlaywright(profileUrl: string): Promise
     throw new Error("PLAYWRIGHT_ENABLED is not set — using API/mock fallback");
   }
 
-  const { chromium } = await import("playwright");
+  const { chromium } = await import(/* webpackIgnore: true */ "playwright");
 
   const browser = await chromium.launch({
     headless: true,

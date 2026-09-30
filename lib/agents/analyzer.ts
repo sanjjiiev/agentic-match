@@ -230,7 +230,7 @@ export async function analyzeProfile(input: RawSocialInput): Promise<AnalyzeResu
   const liSlug = linkedInUrl ? slugFrom(linkedInUrl) : "";
   const igSlug = instagramUrl ? slugFrom(instagramUrl).replace(/^@/, "") : "";
   const rawName = li.displayName ?? ig.displayName;
-  const name = rawName ?? titleCase(liSlug || igSlug) || "Unknown";
+  const name = rawName || titleCase(liSlug || igSlug) || "Unknown";
   const id = `custom-${hashString(`${liSlug}|${igSlug}`.toLowerCase() || Date.now().toString()).toString(36)}`;
 
   const tempProfile: CandidateProfile = {

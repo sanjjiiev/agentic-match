@@ -12,6 +12,7 @@ const nextConfig: NextConfig = {
   experimental: {
     serverActions: { bodySizeLimit: "2mb" },
   },
+  serverExternalPackages: ["playwright"],
 };
 
 export default nextConfig;
