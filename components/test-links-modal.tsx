@@ -63,60 +63,69 @@ export function TestLinksModal() {
           the top candidates in the pool.
         </DialogDescription>
 
-        <div className="mt-5 space-y-3">
-          <div>
-            <label className="mb-1.5 block text-[11px] font-medium uppercase tracking-wider text-zinc-500">
-              LinkedIn URL
-            </label>
-            <input
-              value={linkedInUrl}
-              onChange={(e) => setLinkedInUrl(e.target.value)}
-              placeholder="https://linkedin.com/in/username"
-              className="h-10 w-full rounded-lg border border-white/10 bg-ink-850 px-3 text-sm text-zinc-100 placeholder:text-zinc-600 focus:outline-none focus:ring-2 focus:ring-accent/50"
-            />
-          </div>
-          <div>
-            <label className="mb-1.5 block text-[11px] font-medium uppercase tracking-wider text-zinc-500">
-              Instagram URL
-            </label>
-            <input
-              value={instagramUrl}
-              onChange={(e) => setInstagramUrl(e.target.value)}
-              placeholder="https://instagram.com/username"
-              className="h-10 w-full rounded-lg border border-white/10 bg-ink-850 px-3 text-sm text-zinc-100 placeholder:text-zinc-600 focus:outline-none focus:ring-2 focus:ring-accent/50"
-            />
-          </div>
-        </div>
+        {!result ? (
+          <>
+            <div className="mt-5 space-y-3">
+              <div>
+                <label className="mb-1.5 block text-[11px] font-medium uppercase tracking-wider text-zinc-500">
+                  LinkedIn URL
+                </label>
+                <input
+                  value={linkedInUrl}
+                  onChange={(e) => setLinkedInUrl(e.target.value)}
+                  placeholder="https://linkedin.com/in/username"
+                  className="h-10 w-full rounded-lg border border-white/10 bg-ink-850 px-3 text-sm text-zinc-100 placeholder:text-zinc-600 focus:outline-none focus:ring-2 focus:ring-accent/50"
+                  disabled={loading}
+                />
+              </div>
+              <div>
+                <label className="mb-1.5 block text-[11px] font-medium uppercase tracking-wider text-zinc-500">
+                  Instagram URL
+                </label>
+                <input
+                  value={instagramUrl}
+                  onChange={(e) => setInstagramUrl(e.target.value)}
+                  placeholder="https://instagram.com/username"
+                  className="h-10 w-full rounded-lg border border-white/10 bg-ink-850 px-3 text-sm text-zinc-100 placeholder:text-zinc-600 focus:outline-none focus:ring-2 focus:ring-accent/50"
+                  disabled={loading}
+                />
+              </div>
+            </div>
 
-        <div className="mt-5 flex items-center gap-2">
-          <Button onClick={submit} disabled={loading || (!linkedInUrl && !instagramUrl)} className="gap-2">
-            {loading ? <Loader2 className="h-4 w-4 animate-spin" /> : <Wand2 className="h-4 w-4" />}
-            {loading ? "Synthesizing persona…" : "Analyze & Match"}
-          </Button>
-          <span className="text-[11px] text-zinc-600">
-            Login walls are handled automatically — synthesis never fails.
-          </span>
-        </div>
+            <div className="mt-5 flex flex-col sm:flex-row sm:items-center gap-3">
+              <Button onClick={submit} disabled={loading || (!linkedInUrl && !instagramUrl)} className="gap-2 shrink-0">
+                {loading ? <Loader2 className="h-4 w-4 animate-spin" /> : <Wand2 className="h-4 w-4" />}
+                {loading ? "Synthesizing persona…" : "Analyze & Match"}
+              </Button>
+              <span className="text-[11px] text-zinc-600 leading-relaxed">
+                Login walls handled automatically — synthesis never fails.
+              </span>
+            </div>
 
-        {error && (
-          <div className="mt-4 rounded-lg border border-rose-500/25 bg-rose-500/8 p-3 text-sm text-rose-300">
-            {error}
-          </div>
-        )}
-
-        {result && (
+            {error && (
+              <div className="mt-4 rounded-lg border border-rose-500/25 bg-rose-500/8 p-3 text-sm text-rose-300">
+                {error}
+              </div>
+            )}
+          </>
+        ) : (
           <div className="mt-5 animate-fade-up space-y-4 rounded-xl border border-white/8 bg-ink-850/60 p-4">
-            <div className="flex items-start gap-3">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={result.profile.avatarUrl} alt={result.profile.name} className="h-12 w-12 rounded-full object-cover" />
-              <div className="min-w-0">
-                <div className="text-sm font-semibold text-zinc-100">{result.profile.name}</div>
-                <div className="truncate text-xs text-zinc-500">{result.profile.headline}</div>
-                <div className="mt-1.5 flex flex-wrap gap-1.5">
-                  <Badge tone="accent">{result.profile.analysis.coreValues[0]}</Badge>
-                  <Badge>{result.profile.analysis.hobbies[0]}</Badge>
+            <div className="flex items-start justify-between gap-3">
+              <div className="flex items-start gap-3">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={result.profile.avatarUrl} alt={result.profile.name} className="h-12 w-12 rounded-full object-cover ring-1 ring-white/10" />
+                <div className="min-w-0">
+                  <div className="text-sm font-semibold text-zinc-100">{result.profile.name}</div>
+                  <div className="truncate text-xs text-zinc-500">{result.profile.headline}</div>
+                  <div className="mt-1.5 flex flex-wrap gap-1.5">
+                    <Badge tone="accent">{result.profile.analysis.coreValues[0]}</Badge>
+                    <Badge>{result.profile.analysis.hobbies[0]}</Badge>
+                  </div>
                 </div>
               </div>
+              <Button variant="ghost" size="sm" onClick={() => setResult(null)} className="h-8 text-xs text-zinc-400">
+                Reset
+              </Button>
             </div>
 
             <div className="flex flex-wrap gap-1.5 text-[10px]">
@@ -154,7 +163,7 @@ export function TestLinksModal() {
             <Button
               variant="secondary"
               size="sm"
-              className="w-full"
+              className="w-full mt-2"
               onClick={() => {
                 setOpen(false);
                 router.push(`/profile/${result.profile.id}`);

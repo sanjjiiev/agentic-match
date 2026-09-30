@@ -23,7 +23,7 @@ export function DialogContent({
         className={cn(
           "fixed z-50 border border-white/10 bg-ink-900 shadow-2xl focus:outline-none",
           side === "center" &&
-            "left-1/2 top-1/2 w-full max-w-lg -translate-x-1/2 -translate-y-1/2 rounded-2xl p-6 animate-fade-up",
+            "left-1/2 top-1/2 w-full max-w-lg -translate-x-1/2 -translate-y-1/2 rounded-2xl p-6 max-h-[85vh] overflow-y-auto animate-fade-up",
           side === "right" &&
             "right-0 top-0 h-full w-full max-w-2xl overflow-y-auto rounded-l-2xl p-6 animate-fade-up",
           className,
