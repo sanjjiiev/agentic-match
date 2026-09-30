@@ -1,0 +1,852 @@
+[
+  {
+    "id": "maya-chen-01",
+    "name": "Maya Chen",
+    "age": 29,
+    "location": "San Francisco, USA",
+    "headline": "Product Designer · Design Systems & Motion · Figma Plugins",
+    "avatarUrl": "https://i.pravatar.cc/300?img=47",
+    "linkedInUrl": "https://linkedin.com/in/maya-chen-design",
+    "instagramUrl": "https://instagram.com/maya.makes",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Product Designer at Linear, previously at Figma and Notion",
+        "Led redesign of Linear's mobile app — shipped to 500k+ users",
+        "Speaker: Config 2024 · 'Designing for speed without sacrificing craft'",
+        "MIT Media Lab, Interaction Design · Stanford HCI Certificate"
+      ],
+      "instagramHighlights": [
+        "Photos: analog film shots of San Francisco fog, pottery studio sessions, Saturday farmers market hauls",
+        "Stories: silent product reviews, book spine arrangements, late-night ramen bowls",
+        "Caption style: short, wry, no hashtags — 'another overcast sunday. fine by me.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Maya presents as quietly high-achieving — the kind of person whose LinkedIn looks impressive but whose Instagram reveals someone deliberately slowing down on weekends. Pottery, film photography, and farmers markets signal a tactile counterbalance to an all-digital work life. She's not performing wellness; she's actually doing it.",
+      "coreValues": ["Craft", "Intentionality", "Quiet depth", "Independence"],
+      "needs": ["Partner with their own creative world", "Predictability on weekends", "Emotional directness without dramatics", "Shared slow mornings"],
+      "hobbies": ["Pottery", "Film photography", "Farmers markets", "Cooking elaborate weekend meals"],
+      "lifestyleAndVibe": "High-output Monday through Thursday, deliberately unreachable on weekends. Rereads the same three books. Keeps a very small circle and invests heavily in it. Has a window plant that somehow stays alive.",
+      "communicationStyle": "Low-context and direct in work contexts; warmer and more roundabout in personal ones. Uses humour as a warmth signal, not deflection. Follows up on small details days later.",
+      "greenFlags": ["Has maintained two friendships since college without effort", "Genuinely interested in how things are made", "Never complains without offering a solution", "Comfortable with silence in shared space"],
+      "redFlags": ["Work bleeds into evenings during shipping sprints", "Takes days to answer non-urgent messages", "Slow to articulate what she actually wants from a relationship"],
+      "professionalAmbition": "Wants to ship one perfect product rather than twelve adequate ones. Defining 'done' as a craft decision, not a deadline. Currently writing a design systems guide she'll probably never publish."
+    }
+  },
+  {
+    "id": "jordan-hayes-02",
+    "name": "Jordan Hayes",
+    "age": 31,
+    "location": "Austin, USA",
+    "headline": "Founding Engineer · Dev Tooling · Previously Vercel & Stripe",
+    "avatarUrl": "https://i.pravatar.cc/300?img=12",
+    "linkedInUrl": "https://linkedin.com/in/jordan-hayes-eng",
+    "instagramUrl": "https://instagram.com/jhayes.trail",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Founding engineer at Mintlify — built the docs compiler from scratch",
+        "Previously Staff Engineer at Vercel, infrastructure team",
+        "Open source contributor: 3.2k GitHub stars on personal CLI tool",
+        "UT Austin CS · 2016"
+      ],
+      "instagramHighlights": [
+        "Photos: Barton Creek trail runs, bike packing kit shots, the same Austin coffee shop table every Tuesday",
+        "Stories: Strava screenshots, random gear reviews, books mid-read",
+        "Caption style: minimal, often just a location tag and a single line — 'greenbelt at 6am. beats everything.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Jordan has done the big-company sprint and come out the other side building something small and sharp. The trail running and bikepacking are not aesthetic hobbies — they're genuine recoveries from high-intensity work. There's a person here who measures everything (Strava, build times, sleep scores) but is self-aware enough to laugh at it.",
+      "coreValues": ["Autonomy", "Craftsmanship", "Physical challenge", "Honesty"],
+      "needs": ["Partner who respects training schedules without scorekeeping", "Consistency over intensity", "Someone who has their own strong opinions", "Occasional deep conversation, not constant contact"],
+      "hobbies": ["Trail running", "Bikepacking", "Open-source side projects", "Espresso obsession"],
+      "lifestyleAndVibe": "Up at 5:30, run or ride before 8, then deep work until 4pm. Social energy is real but has a finite tank — prefers one great dinner to three mediocre ones. Owns too much bike gear, not enough furniture.",
+      "communicationStyle": "Terse in text, surprisingly warm in person. Prefers voice notes to long messages. Will send a 40-message thread about compiler architecture and then go completely silent for a day.",
+      "greenFlags": ["Plans ahead for things that matter, loose about everything else", "Genuinely celebrates other people's wins without making it about himself", "Can be wrong and say so without spiraling", "Keeps promises, cancels gracefully when he can't"],
+      "redFlags": ["Launch cycles erase social availability for weeks", "Avoids conflict until it becomes unmistakable", "Can go very deep on a topic and forget to come up for air"],
+      "professionalAmbition": "Wants to build the tool he wishes had existed when he started — then teach someone else to maintain it while he starts the next one. Deliberately choosing small and precise over large and diluted."
+    }
+  },
+  {
+    "id": "anya-patel-03",
+    "name": "Anya Patel",
+    "age": 27,
+    "location": "New York, USA",
+    "headline": "Climate Data Scientist · Carbon Markets · Columbia SIPA",
+    "avatarUrl": "https://i.pravatar.cc/300?img=49",
+    "linkedInUrl": "https://linkedin.com/in/anya-patel-climate",
+    "instagramUrl": "https://instagram.com/anyainnyc",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Data Scientist at Watershed — building carbon accounting models",
+        "Previously UN Environment Programme, climate finance division",
+        "Columbia SIPA graduate, International Climate Policy",
+        "Published: 'Carbon offsets and permanence risk' — Nature Climate Change"
+      ],
+      "instagramHighlights": [
+        "Photos: Prospect Park in every season, Indian food that took three hours, concert ticket stubs on a wall",
+        "Stories: subway reads, museum memberships, aggressive opinions on NYC pizza",
+        "Caption style: warm and conversational — 'made palak paneer from scratch and it was immediately gone. good problem.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Anya carries serious intellectual weight without performing it. The climate work is a genuine vocation, not a status job — she published a paper that contradicted her own employer's methodology and didn't flinch. Off the clock she's warm, food-obsessed, and rooted to New York in a way that reads as permanence, not inertia.",
+      "coreValues": ["Impact", "Intellectual honesty", "Community", "Warmth"],
+      "needs": ["Partner who takes ideas seriously but doesn't intellectualize emotions", "Shared city life — local, rooted, neighbourhoodly", "Physical affection and easy laughter", "Someone who will eat whatever she cooks and be honest about it"],
+      "hobbies": ["Cooking Indian food from scratch", "Concert-going", "Running in Prospect Park", "Reading policy papers for fun (she knows)"],
+      "lifestyleAndVibe": "Weekday intensity offloaded entirely into weekend warmth. Her apartment is the gathering place in her friend group. Can pivot from a 90-minute conversation about climate finance to making chai from scratch without losing either thread.",
+      "communicationStyle": "Warm and narrative — makes her point through a story first. Asks many follow-up questions. Direct about values, gentler about personal needs.",
+      "greenFlags": ["Has a long-running weekly call with her parents that she actually enjoys", "Introduces friends to each other intentionally", "Can disagree without personalizing it", "Remembers very specific things people mention once"],
+      "redFlags": ["Can overcommit to causes at the expense of personal plans", "Slow to acknowledge when she's overwhelmed", "Tendency to rationalise rather than feel things in real time"],
+      "professionalAmbition": "Wants the model she's building to be the one that's still running in ten years. Not interested in the startup track — interested in the research that outlasts the hype cycle."
+    }
+  },
+  {
+    "id": "leo-kowalski-04",
+    "name": "Leo Kowalski",
+    "age": 33,
+    "location": "Berlin, Germany",
+    "headline": "Creative Director · Brand & Identity · Studio Founder",
+    "avatarUrl": "https://i.pravatar.cc/300?img=15",
+    "linkedInUrl": "https://linkedin.com/in/leo-kowalski-cd",
+    "instagramUrl": "https://instagram.com/leokowalski.studio",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Founder, Studio Kowalski — brand and identity for European tech and culture clients",
+        "Previously Creative Director at Spotify, brand systems team",
+        "Clients: SumUp, Notion (DE), Berlin Philharmonic seasonal campaign",
+        "Muthesius Academy of Fine Arts, Visual Communication"
+      ],
+      "instagramHighlights": [
+        "Photos: studio process shots, typeface tests, Kreuzberg at golden hour, record collection details",
+        "Stories: Berlin cultural events, font releases, very strong opinions on kerning",
+        "Caption style: European dry wit — 'helvetica was a mistake. this is not up for debate.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Leo runs a small studio and has the self-awareness to know exactly what kind of work he wants to do for the rest of his life — and what he doesn't. Spotify gave him resources and took his time; he chose the inverse trade. Vinyl collection, late starts, and an entire Instagram dedicated to typography signal someone who has built a life around aesthetic conviction.",
+      "coreValues": ["Craft", "Aesthetic integrity", "Creative independence", "Cultural depth"],
+      "needs": ["Partner who has their own strong creative practice", "Slow mornings, no negotiation", "A relationship where silence is comfortable and frequent", "Someone who cares passionately about at least one esoteric thing"],
+      "hobbies": ["Vinyl record collecting", "Type design", "Long Berlin walks with no destination", "Art house cinema"],
+      "lifestyleAndVibe": "Nocturnal creative rhythm — best work between 10pm and 2am. Doesn't own a car, doesn't need one. Kreuzberg is both office and habitat. Socially selective and intensely present when engaged.",
+      "communicationStyle": "Playful and indirect — builds to the point through sideways references. Dry humour as the primary register. Very direct when something actually matters to him.",
+      "greenFlags": ["Thirty-year plan that doesn't involve scale or exits", "Deep friendships with artists across multiple cities", "Never competitive — genuinely celebrates work that's better than his", "Will tell you when something isn't working, kindly"],
+      "redFlags": ["Studio rhythm is incompatible with conventional schedules", "Avoidant about practical logistics — taxes, admin, appointments", "Has strong aesthetic opinions that occasionally shade into judgment"],
+      "professionalAmbition": "Wants to work with three great clients a year for the next twenty years. Defines success as still caring about the work at 55. Does not want to grow the studio beyond four people."
+    }
+  },
+  {
+    "id": "priya-sharma-05",
+    "name": "Priya Sharma",
+    "age": 30,
+    "location": "Bengaluru, India",
+    "headline": "Staff Engineer · Platform · Zepto | Ex-Google",
+    "avatarUrl": "https://i.pravatar.cc/300?img=48",
+    "linkedInUrl": "https://linkedin.com/in/priya-sharma-swe",
+    "instagramUrl": "https://instagram.com/priyasharma.codes",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Staff Software Engineer at Zepto, building delivery infrastructure for 10-minute grocery",
+        "Previously at Google SRE, Bangalore office — 4 years",
+        "IIT Bombay CS · 2016 · Gold medalist",
+        "Speaker: QCon Bangalore 2024 · 'Reliability at 5AM peak load'"
+      ],
+      "instagramHighlights": [
+        "Photos: weekend Coorg trips, homemade filter coffee, bouldering gym sessions",
+        "Stories: Bengaluru monsoon aesthetic, book recs, the occasional 2am bug tweet",
+        "Caption style: slightly self-deprecating, warm — 'went bouldering to decompress and now my forearms don't work. worth it.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Priya is genuinely top-tier technically and has clearly opted for impact over prestige — leaving Google for a logistics startup is not a lateral move in the conventional sense. The bouldering and the weekend trips are not aesthetic content; they're decompression. She's warm and self-aware in a way that IIT pedigree types often aren't.",
+      "coreValues": ["Impact", "Reliability", "Physical challenge", "Intellectual rigour"],
+      "needs": ["Partner who respects intense work periods without interpreting them as neglect", "Weekend adventures that actually require logistics", "Emotional directness — no guessing games", "Someone who takes at least one thing as seriously as she takes reliability engineering"],
+      "hobbies": ["Bouldering", "Weekend treks", "Filter coffee ritualism", "Reading systems design papers"],
+      "lifestyleAndVibe": "5:30am starts on incident days, 9am starts when she controls the calendar. Weekends are aggressively off — phone in a drawer by noon Saturday. The Coorg trips happen quarterly with a rotating cast of the same six people.",
+      "communicationStyle": "Direct and high-bandwidth — prefers phone calls to long text threads. Asks the actual question rather than hinting at it. Will send a three-point structured message at 11pm and then not check for replies until morning.",
+      "greenFlags": ["Calls out her own mistakes in post-mortems with the same clarity she applies to others'", "Has said no to promotions that would have taken her off the technical track", "Introduces partners to close friends early and without drama", "Genuinely funny in Kannada contexts she never posts"],
+      "redFlags": ["On-call rotations render two weeks per month partially unreachable", "High standards extend to relationships in ways she doesn't always flag in advance", "Can overanalyze interpersonal dynamics instead of just having a conversation"],
+      "professionalAmbition": "Wants to be the person who figures out sub-five-minute delivery infrastructure without it costing anyone their sleep. Cares about the human systems as much as the technical ones. Will write the postmortem the industry needs."
+    }
+  },
+  {
+    "id": "finn-oconnell-06",
+    "name": "Finn O'Connell",
+    "age": 28,
+    "location": "Dublin, Ireland",
+    "headline": "Growth Lead · B2B SaaS · Angel Investor · Marathon Runner",
+    "avatarUrl": "https://i.pravatar.cc/300?img=11",
+    "linkedInUrl": "https://linkedin.com/in/finn-oconnell-growth",
+    "instagramUrl": "https://instagram.com/finnoconnell.run",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Growth Lead at Intercom, EMEA expansion — 200% YOY on enterprise pipeline",
+        "Angel portfolio: 8 early-stage SaaS investments, 2 exits",
+        "Dublin City Marathon 2023: 2:58 — personal best",
+        "Trinity College Dublin, Economics & Computer Science · 2018"
+      ],
+      "instagramHighlights": [
+        "Photos: Dublin coastal running routes, early morning Howth harbour, post-race pints",
+        "Stories: race prep, startup events, the odd game of GAA with his cousins",
+        "Caption style: Irish dry — 'sub-3 is a ceiling I am choosing to believe is negotiable. unlikely but therapeutic.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Finn is maximally optimised and knows it — but the Irish self-deprecation keeps it from becoming insufferable. The marathon isn't a hobby; it's a second performance metric. The angel investing is social as much as financial. Warm underneath the dashboard, but you have to find the door.",
+      "coreValues": ["Ambition", "Loyalty", "Performance", "Community"],
+      "needs": ["Partner who has their own ambitious project and doesn't resent his", "Physical partnership — running together, at minimum tolerance for his obsession", "Warmth and humour as baseline registers", "Roots — Dublin or somewhere he can return to"],
+      "hobbies": ["Marathon training", "Angel investing", "GAA (Gaelic football, badly)", "Live music"],
+      "lifestyleAndVibe": "Highly structured week with aggressive social weekends. The calendar has 6am runs and also 1am pub exits — sometimes the same day. Family is close and loud; partner needs to enjoy that or at least tolerate it without engineering around it.",
+      "communicationStyle": "High-energy, fast, warm, and occasionally overpromising in social contexts. Texts in voice notes more than anyone should. Deeply loyal once you're in the circle.",
+      "greenFlags": ["Attends funerals and shows up for the difficult occasions", "Credits the people who helped him publicly and in private", "Will change his opinion when presented with evidence and say so", "Does not conflate professional ambition with personal worth"],
+      "redFlags": ["Growth mindset occasionally applied to relationships, which doesn't work that way", "Schedule density can crowd out quality time without visible warning", "Can be slow to articulate emotional needs — performs instead"],
+      "professionalAmbition": "Wants to write the first cheque on a company that matters. The growth role is building judgment and network. The goal is fund one — small, thesis-driven, by 35."
+    }
+  },
+  {
+    "id": "nadia-bouchard-07",
+    "name": "Nadia Bouchard",
+    "age": 32,
+    "location": "Montreal, Canada",
+    "headline": "Clinical Researcher · Behavioural Health · McGill · CIHR Fellow",
+    "avatarUrl": "https://i.pravatar.cc/300?img=45",
+    "linkedInUrl": "https://linkedin.com/in/nadia-bouchard-research",
+    "instagramUrl": "https://instagram.com/nadiab.reads",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Clinical Researcher at McGill Psychiatry, PTSD and trauma-informed care",
+        "CIHR Postdoctoral Fellowship — second year",
+        "Published 12 peer-reviewed papers, h-index 9",
+        "McGill Medicine + PhD Psychology · 2020"
+      ],
+      "instagramHighlights": [
+        "Photos: Laurentian Mountains autumn hikes, Montreal café interiors, extremely dense bookshelves",
+        "Stories: French-English code switching, mental health awareness posts, library selfies",
+        "Caption style: bilingual, precise, occasionally funny — 'hiking with my imposter syndrome. it kept up, unfortunately.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Nadia is brilliant and relentlessly self-aware — an unusual combination in clinical research. The Laurentian hikes are genuine solitude practice, not Instagram content. She does mental health comms publicly because she thinks the stigma actually kills people, not because it performs well. Very warm once out of academic register.",
+      "coreValues": ["Intellectual honesty", "Compassion", "Rigour", "Continuity"],
+      "needs": ["Partner who asks real questions and follows up on the answers", "Shared outdoor rhythm — hiking, not performance sport", "Space for solitude without it being interpreted as withdrawal", "Bilingual or at least French-tolerant household"],
+      "hobbies": ["Long-distance hiking", "Dense non-fiction", "Mental health advocacy", "Very good coffee, made slowly"],
+      "lifestyleAndVibe": "Academic rhythm with Mont-Royal runs in between. Socially warm but recharges alone. Has a running list of books to read that is longer than her publication list. Montreal is home in the deepest sense.",
+      "communicationStyle": "Precise and careful — measures words before sending. Asks the real question on the second attempt, not the first. Warm laughter once comfortable; formal cadence until trust is established.",
+      "greenFlags": ["Has called out methodology errors in her own published work", "Long friendships across multiple countries maintained with actual effort", "Doesn't pathologize her own emotions — names them and moves", "Volunteers at a crisis line on Thursdays, doesn't post about it"],
+      "redFlags": ["Research brain applies clinical distance to her own relationship dynamics", "Takes time to trust people, and doesn't telegraph where she is in that process", "Can overfunction in supportive roles while underexpressing her own needs"],
+      "professionalAmbition": "Wants to change how trauma is treated in primary care settings — not just psychiatry. Writes the guidelines that overworked GPs can actually use. No interest in the academic status game; very interested in the actual outcome."
+    }
+  },
+  {
+    "id": "kai-tanaka-08",
+    "name": "Kai Tanaka",
+    "age": 26,
+    "location": "Tokyo, Japan",
+    "headline": "UX Researcher · Fintech · Cross-Cultural Design · Waseda",
+    "avatarUrl": "https://i.pravatar.cc/300?img=13",
+    "linkedInUrl": "https://linkedin.com/in/kai-tanaka-ux",
+    "instagramUrl": "https://instagram.com/kaitanaka.tokyo",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "UX Researcher at Mercari, financial products team",
+        "Cross-cultural design research: Tokyo, Seoul, Jakarta field studies",
+        "Waseda University, Human Sciences · 2022",
+        "Volunteer: digital literacy workshops for elderly residents, Shibuya-ku"
+      ],
+      "instagramHighlights": [
+        "Photos: Shimokitazawa record shops, izakaya nights with the same group of six, jazz bar ceiling shots",
+        "Stories: urban cycling routes, tea ceremony sessions, indie film stubs",
+        "Caption style: observational and quiet — 'the record shop owner knew exactly what I needed before I did. this is the technology.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Kai is young but reads older — the digital literacy volunteer work is the real tell. There's a genuine intergenerational curiosity here that doesn't show up in people who are purely career-focused. Shimokitazawa, jazz, and the same six friends for three years form a stable, intentional social world.",
+      "coreValues": ["Curiosity", "Community", "Intergenerational connection", "Craft"],
+      "needs": ["Partner who is genuinely interested in how other people think", "Shared urban life — walking neighbourhoods, small restaurants, no cars", "Warmth expressed in small consistent acts rather than grand gestures", "Some tolerance for very slow, very deliberate Saturday mornings"],
+      "hobbies": ["Vinyl record digging", "Urban cycling", "Tea ceremony", "Indie cinema"],
+      "lifestyleAndVibe": "Slow mornings, fast evenings. Shimokitazawa is home territory. Has six close friends and has had the same six close friends since university. The elderly volunteer work happens every other Saturday and is non-negotiable.",
+      "communicationStyle": "Quiet and observational — learns by watching before speaking. When he does speak, it's considered. Uses humour gently and reads the room first. Long silences in text conversations don't mean disengagement.",
+      "greenFlags": ["Volunteers without making it a personality trait", "Remembers what people said they were anxious about and checks in", "Has a genuine relationship with two people 40+ years older than him", "Doesn't perform opinions he hasn't formed"],
+      "redFlags": ["Can be slow to advocate for his own needs in a relationship", "Cross-cultural research means travel that isn't predictable", "Struggles to initiate difficult conversations — tends to wait too long"],
+      "professionalAmbition": "Wants to design financial products that actually work for people who weren't the intended user. The field studies are the real work; the Tokyo office is where the insights go to be argued about. Will write the book eventually."
+    }
+  },
+  {
+    "id": "sara-lindqvist-09",
+    "name": "Sara Lindqvist",
+    "age": 34,
+    "location": "Stockholm, Sweden",
+    "headline": "VP Product · Klarna Alumni · Board Observer · Endurance Athlete",
+    "avatarUrl": "https://i.pravatar.cc/300?img=44",
+    "linkedInUrl": "https://linkedin.com/in/sara-lindqvist-product",
+    "instagramUrl": "https://instagram.com/saralindqvist.swim",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "VP Product at Qasa (Sweden's largest rental platform), scaling from 50 to 200 engineers",
+        "Previously Director of Product at Klarna, Checkout Products",
+        "Board Observer: two Series B fintech startups",
+        "Stockholm School of Economics · Executive MBA in progress"
+      ],
+      "instagramHighlights": [
+        "Photos: open-water swim routes on the Stockholm archipelago, ski touring in Åre, home sauna",
+        "Stories: leadership book summaries, early morning lake swims, the occasional kid at a school play",
+        "Caption style: precise and occasionally fierce — 'open water is the only management technique that actually works. highly recommend.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Sara is running at executive altitude with an endurance athlete's recovery practice — which is the only sustainable way to do what she's doing. The open-water swimming isn't a hobby; it's the thing that keeps her functional. Extremely results-oriented but has genuine depth of character underneath the dashboard view.",
+      "coreValues": ["Ambition", "Resilience", "Clarity", "Long-term thinking"],
+      "needs": ["Partner who is similarly ambitious without being competitive with her", "Physical shared practice — swimming, skiing, or something outdoor and challenging", "High trust, low maintenance — parallel lives that intersect deeply", "Someone who finds the arc of her career interesting, not intimidating"],
+      "hobbies": ["Open-water swimming", "Ski touring", "Leadership reading", "Stockholm archipelago"],
+      "lifestyleAndVibe": "5:45am pool or open water, then the first 90 minutes are strategic thinking before email opens. Weekends rotate between archipelago and the mountains. Manages her calendar like a product with hard constraints and protected time blocks.",
+      "communicationStyle": "Extremely direct and high-context — gets to the point in two sentences and expects others to do the same. Warm register available on demand; default is efficient.",
+      "greenFlags": ["Promotes women aggressively and does it quietly", "Has said 'I was wrong' to a room of a hundred people without qualifying it", "Long marriage of intellectual partnership before it ended amicably — still friends", "Makes time for people who are not yet useful to her"],
+      "redFlags": ["Executive schedule creates structural asymmetry in relationships", "Very high standards that she doesn't always pre-disclose", "Travel and board commitments compress available relationship time significantly"],
+      "professionalAmbition": "Wants to be the person who fixed rental housing in Northern Europe — product by product, city by city. The MBA is for the board seats. The board seats are for the funding rounds she plans to lead in five years."
+    }
+  },
+  {
+    "id": "marcus-webb-10",
+    "name": "Marcus Webb",
+    "age": 29,
+    "location": "London, UK",
+    "headline": "Brand Strategist · Culture & Retail · Founder, Studio Webb",
+    "avatarUrl": "https://i.pravatar.cc/300?img=14",
+    "linkedInUrl": "https://linkedin.com/in/marcus-webb-brand",
+    "instagramUrl": "https://instagram.com/marcuswebb.studio",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Founder, Studio Webb — brand strategy for culture and retail clients",
+        "Previously Strategy Director at Wieden+Kennedy London",
+        "Clients: New Balance UK, Tate Modern, Uniqlo EMEA",
+        "Goldsmiths, Cultural Studies · 2017"
+      ],
+      "instagramHighlights": [
+        "Photos: Peckham street photography, Nike sneaker archives, basketball courts at dusk",
+        "Stories: London gig circuit, rare book shops in Soho, food markets with serious opinions",
+        "Caption style: cultural sharp — 'this colourway doesn't exist anywhere officially. that's the point.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Marcus operates at the intersection of culture and commerce and hasn't sold either out yet — which is harder than it sounds at the agency level. The street photography and sneaker archiving aren't status hobbies; they're a visual research practice. Goldsmiths background gives him a theoretical frame that most brand strategists lack.",
+      "coreValues": ["Cultural integrity", "Craft", "Community", "Authenticity"],
+      "needs": ["Partner who cares deeply about something cultural and can hold their own in an argument about it", "Peckham or nearby — rootedness to a specific London neighbourhood", "Intellectual stimulation as a baseline, not a special occasion", "A relationship that moves at the speed of real trust"],
+      "hobbies": ["Street photography", "Sneaker archiving", "Live music (all of it)", "Basketball"],
+      "lifestyleAndVibe": "Client work in the mornings, creative research in the afternoons, culture in the evenings. Peckham is home in every meaningful sense — the Bussey Building, Copeland Park, the market on a Saturday. Introduces people to each other constantly.",
+      "communicationStyle": "Articulate and culturally referential — will make three oblique connections before landing the point. Warm and inclusive once in his orbit. Very direct about what he thinks; gentler about what he feels.",
+      "greenFlags": ["Gives credit publicly, specifically, and without being asked", "Has maintained a basketball group that's been meeting weekly for six years", "Can tell when a brand is lying and says so in print", "Shows up for openings, launches, and milestones that don't benefit him"],
+      "redFlags": ["Client crunch periods leave zero social residue for anything else", "Runs at a social pace that can crowd out one-on-one depth", "Can intellectualize a relationship when it would be better to just feel it"],
+      "professionalAmbition": "Wants to be the studio that helped three culture-defining brands find their actual voice. No exits, no scale, no consulting. The work is the point."
+    }
+  },
+  {
+    "id": "elena-volkov-11",
+    "name": "Elena Volkov",
+    "age": 31,
+    "location": "Amsterdam, Netherlands",
+    "headline": "Computational Biologist · Drug Discovery · Recursion Pharma",
+    "avatarUrl": "https://i.pravatar.cc/300?img=46",
+    "linkedInUrl": "https://linkedin.com/in/elena-volkov-bio",
+    "instagramUrl": "https://instagram.com/elena.volkov.am",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Computational Biologist at Recursion Pharmaceuticals, Amsterdam node",
+        "Previously PhD postdoc, Hubrecht Institute — cell morphology and ML",
+        "Utrecht University PhD, Computational Biology · 2021",
+        "First author: Nature Methods paper on morphological profiling at scale"
+      ],
+      "instagramHighlights": [
+        "Photos: Amsterdam canal bike routes, Russian home cooking, dark academia bookshelves",
+        "Stories: science communication threads, sauna meets, classical music performances",
+        "Caption style: quiet and dry — 'borsch from scratch takes four hours. this is a feature, not a bug.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Elena is a scientist who genuinely believes in what she's building — drug discovery at the AI frontier is either the most important or most overhyped thing in biotech, and she's in the former camp with evidence. The borsch, the canals, and the classical music are all slow-life signals from someone who runs fast at work and deliberately slow everywhere else.",
+      "coreValues": ["Scientific rigour", "Depth", "Patience", "Beauty"],
+      "needs": ["Partner who can follow a technical conversation without needing to win it", "Shared slow domestic rhythms — cooking, reading, long meals", "Emotional intelligence that doesn't require explaining from first principles", "Physical proximity — Amsterdam is home and leaving it is not on the table"],
+      "hobbies": ["Borsch and Russian home cooking", "Canal cycling", "Classical music", "Dark academia reading"],
+      "lifestyleAndVibe": "Lab from 9 to 7, then completely off. The cooking takes time because it's the decompression. Canal bike routes memorised by season. Has a sauna group of four that meets fortnightly — outsiders welcome after four meetings.",
+      "communicationStyle": "Precise and quiet — says the important thing once and doesn't repeat it. Very dry sense of humour that takes a few encounters to decode. Written communication is measured; in-person warmth is real and immediate.",
+      "greenFlags": ["Published a correction to her own paper without being asked", "Has maintained a long-distance friendship with her PhD supervisor across five countries", "Introduces difficult topics early — doesn't let things fester", "Cooks for people as the primary love language"],
+      "redFlags": ["Amsterdam commitment is absolute — partner needs to be locationally flexible toward her", "Scientific standards can shade into personal perfectionism", "Slow to trust, and doesn't signal where she is in that process"],
+      "professionalAmbition": "Wants to see at least one drug she helped model reach Phase III before she's 40. Defines the win as the compound, not the publication. Would rather be right and invisible than celebrated and wrong."
+    }
+  },
+  {
+    "id": "ravi-iyer-12",
+    "name": "Ravi Iyer",
+    "age": 35,
+    "location": "Singapore",
+    "headline": "Head of Product · Fintech · Southeast Asia | Ex-Grab, ex-PayPal",
+    "avatarUrl": "https://i.pravatar.cc/300?img=18",
+    "linkedInUrl": "https://linkedin.com/in/ravi-iyer-product",
+    "instagramUrl": "https://instagram.com/ravi.sg.eats",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Head of Product at GXS Bank Singapore — building mobile banking for the underbanked",
+        "Previously PM Lead at Grab Financial, PayPal APAC",
+        "IIM Ahmedabad MBA · IIT Madras CS",
+        "Advisor: two fintech startups building for emerging markets"
+      ],
+      "instagramHighlights": [
+        "Photos: Singapore hawker centre deep dives, Kerala home cooking, cricket Saturday mornings",
+        "Stories: Financial inclusion reading lists, Sentosa sunrise runs, family visits to Chennai",
+        "Caption style: warm and earnest — 'the chicken rice at Tian Tian is not overrated. I will keep saying this.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Ravi has the IIT/IIM pedigree but uses it as a foundation for genuine service orientation rather than a credential to display. The GXS work — banking for the underbanked — is a values-aligned choice that involved pay cuts he doesn't mention. The hawker centre obsession is a love language directed at Singapore.",
+      "coreValues": ["Service", "Cultural rootedness", "Warmth", "Long-term thinking"],
+      "needs": ["Partner who appreciates Singapore's complexity without romanticising or dismissing it", "Shared food culture as a serious relationship language", "Family-forward values without prescriptive timelines", "Someone who finds fintech problems genuinely interesting, or at least tolerant of dinner table discussion of them"],
+      "hobbies": ["Hawker centre research", "Kerala and Tamil home cooking", "Cricket", "Sunrise running"],
+      "lifestyleAndVibe": "Early mornings, hawker breakfast, deep work until early afternoon. Saturday cricket is a fixed anchor. Visits Chennai quarterly. The apartment is organised, the kitchen is where the personality lives.",
+      "communicationStyle": "Warm and earnest — says what he means without ornament. Asks questions that are genuinely curious rather than politely conversational. Will follow up on the answer you gave three weeks later.",
+      "greenFlags": ["Chose a mission-aligned role over 40% more salary, made it once in passing and never again", "Keeps in contact with his extended family in a way that reads as genuine affection", "Can disagree on fintech models and remain a friend to the person he disagrees with", "Introduces himself as the person who makes the food at every party"],
+      "redFlags": ["Regionalism — Singapore first; any relationship requiring relocation needs serious conversation", "Work-life integration rather than separation means very little hard downtime", "Can be slow to raise personal concerns early, preferring to wait until they are unignorable"],
+      "professionalAmbition": "Wants to build the mobile bank that reaches 20 million Southeast Asians who couldn't access formal finance before. Success is measured in account activations by people who previously had none. Not interested in the Singapore fintech hype circuit."
+    }
+  },
+  {
+    "id": "zoe-martin-13",
+    "name": "Zoe Martin",
+    "age": 27,
+    "location": "Melbourne, Australia",
+    "headline": "Growth Engineer · B2C · Freelance Climbing Guide · Altitude Nerd",
+    "avatarUrl": "https://i.pravatar.cc/300?img=50",
+    "linkedInUrl": "https://linkedin.com/in/zoe-martin-growth",
+    "instagramUrl": "https://instagram.com/zoe.climbs.au",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Growth Engineer at Canva, Activation team",
+        "RMIT Software Engineering · 2020",
+        "Freelance climbing guide: Grampians and Mount Arapiles",
+        "Side project: Routefinder — open-source climbing route database for Victoria"
+      ],
+      "instagramHighlights": [
+        "Photos: Grampians trad routes, Canva Melbourne office walls, post-crag sourdough",
+        "Stories: beta sequences, gear talk, very specific opinions on chalk bags",
+        "Caption style: direct and dry — 'the crux is on the approach. this is my hill (literally) and I will die on it.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Zoe has somehow built a life where her growth engineering and her climbing guiding use exactly the same skills — pattern recognition, beta testing, conversion. The open-source climbing database is built because the existing one frustrated her. This is a person who fixes what bothers her rather than complaining about it.",
+      "coreValues": ["Physical challenge", "Independence", "Problem-solving", "Community"],
+      "needs": ["Partner who climbs, or is at minimum enthusiastically willing to learn", "Melbourne as home base — the Grampians are an extension of home, not a destination", "A relationship that can survive a week of camping and no showers", "Directness as the primary communication register — no guessing games"],
+      "hobbies": ["Trad climbing", "Climbing guiding", "Sourdough baking", "Open-source side projects"],
+      "lifestyleAndVibe": "Canva weekdays, Grampians or crag weekends. The apartment has too much gear and not enough furniture. The sourdough starter has a name. Friendship group is largely the climbing community — warm, outdoorsy, extremely direct.",
+      "communicationStyle": "Blunt and clear — says the thing and means it. No passive register, no hinting. Warm in a physical, outdoorsy way — high-fives, shared food, lending gear.",
+      "greenFlags": ["Maintains the route database voluntarily for a community that can't pay her", "Teaches novice climbers with patience that doesn't show up in other contexts", "Calls out bad safety practices on the crag without caring who's watching", "Has a consistent group of climbing friends she's known since university"],
+      "redFlags": ["Partner needs to have their own relationship with physical challenge — preferring comfort consistently creates friction", "Travel schedule for guiding is only partially predictable", "Can be so direct that important emotional conversations feel like post-mortems"],
+      "professionalAmbition": "Wants to ship Canva's next activation loop and simultaneously get more climbers onto multi-pitch routes in Victoria. The two goals feel related in ways she hasn't fully articulated yet. Will definitely articulate them eventually."
+    }
+  },
+  {
+    "id": "tobias-richter-14",
+    "name": "Tobias Richter",
+    "age": 36,
+    "location": "Munich, Germany",
+    "headline": "AI Research Engineer · NLP · MPI for Intelligent Systems | Prev. DeepMind",
+    "avatarUrl": "https://i.pravatar.cc/300?img=17",
+    "linkedInUrl": "https://linkedin.com/in/tobias-richter-nlp",
+    "instagramUrl": "https://instagram.com/tobias.richter.de",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Research Engineer at Max Planck Institute for Intelligent Systems, NLP lab",
+        "Previously Research Scientist at DeepMind London, 3 years",
+        "TU Munich PhD, Machine Learning · 2020",
+        "NeurIPS 2022 spotlight paper: causal language models and factual consistency"
+      ],
+      "instagramHighlights": [
+        "Photos: Alpine ski touring routes, Munich English Garden morning runs, concert hall programmes",
+        "Stories: academic paper summaries for non-specialists, bread baking failures, Bundesliga afternoons",
+        "Caption style: dry German — 'the model hallucinates with more confidence than I have about anything. impressive, honestly.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Tobias left DeepMind to go back to academic research, which is an unusual and deliberate direction. The NLP alignment work is genuine — not because it's fashionable but because he started caring about it in 2019 when almost nobody did. The ski touring and the concert hall create a physical and cultural counter-programme to the cerebral work.",
+      "coreValues": ["Intellectual integrity", "Craft", "Depth", "Calm"],
+      "needs": ["Partner who is intellectually engaged without it being a performance", "Shared physical outdoor practice — hiking, skiing, or equivalent", "Quiet domestic rhythms that support deep focus", "Someone who doesn't need him to be exciting on weekday evenings"],
+      "hobbies": ["Alpine ski touring", "Bread baking", "Classical music (concerts, not recordings)", "Bundesliga (Bayern, apologetically)"],
+      "lifestyleAndVibe": "Research schedule is autonomous but demanding — deep work from 9 to 1pm, then collaborative afternoons. English Garden runs twice a week. The bread baking is the one domestic ritual that is inviolable and non-negotiable.",
+      "communicationStyle": "Measured and careful — thinks before speaking and means what he says. Academic register in professional contexts; genuinely warm in personal ones. Self-deprecating about his own model in ways that are not false modesty.",
+      "greenFlags": ["Left a prestigious role because the work wasn't what he wanted to do — said so clearly", "Will explain his entire research area to someone completely outside it with no condescension", "Has a long and functional friendship with his PhD advisor", "Shows up for people going through hard things without needing credit"],
+      "redFlags": ["Research mind means he can analyse a relationship dynamic when he should just be in it", "Introvert recharge needs can look like unavailability to partners who need more contact", "Munich and the Max Planck position are fixed; location flexibility is very limited"],
+      "professionalAmbition": "Wants to be the person who wrote the paper that changed how alignment was approached, not the person who was on the podcast about it. Long time horizons — thinks in decades, publishes in years."
+    }
+  },
+  {
+    "id": "camille-dupont-15",
+    "name": "Camille Dupont",
+    "age": 28,
+    "location": "Paris, France",
+    "headline": "Journalist & Podcast Host · Tech & Society · Le Monde + independent",
+    "avatarUrl": "https://i.pravatar.cc/300?img=43",
+    "linkedInUrl": "https://linkedin.com/in/camille-dupont-journaliste",
+    "instagramUrl": "https://instagram.com/camilledupont.media",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Tech & Society journalist at Le Monde Numérique",
+        "Host: 'Algorithme ou Démocratie' podcast — 280k subscribers",
+        "Sciences Po Paris, Political Science + Columbia Journalism School",
+        "Press freedom board member: Reporters Sans Frontières digital desk"
+      ],
+      "instagramHighlights": [
+        "Photos: Canal Saint-Martin evenings, Paris protest photography, old bookshops",
+        "Stories: podcast clips, press freedom updates, strong opinions on French cheese",
+        "Caption style: engaged and sharp — 'another week, another algorithm shaping an election. fine. everything is fine.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Camille has built a platform around asking uncomfortable questions about tech and power, and she does it in French, which has a different and more specific audience than the English-language tech critic ecosystem. The press freedom board work is the real signal — not paid, not visible, just necessary.",
+      "coreValues": ["Press freedom", "Intellectual courage", "Cultural engagement", "Scepticism"],
+      "needs": ["Partner who can hold a strong opinion and be challenged on it without collapsing", "Paris as home — the city is not background but infrastructure for her work and life", "Warmth that doesn't require constant proximity", "Someone who reads and has opinions about what they've read"],
+      "hobbies": ["Canal Saint-Martin walks", "Protest photography", "Dense political non-fiction", "French cheese with strong opinions"],
+      "lifestyleAndVibe": "Journalism schedule means nothing is fixed. Canal evenings, bookshop afternoons, podcast recording blocks that consume entire days. The apartment is stacked with books. Social life is intense and curated.",
+      "communicationStyle": "Articulate and provocative in the best sense — asks the question that the conversation has been avoiding. Warm on first meeting, sharper as trust grows. Voice-note user who writes long voice notes.",
+      "greenFlags": ["Board work that pays nothing and is done because it matters", "Interviews people she disagrees with with genuine curiosity", "Credits sources publicly and specifically", "Has maintained a weekly call with her family in Lyon for six years"],
+      "redFlags": ["Journalism burnout is a structural risk that she manages but doesn't fully acknowledge", "Strong opinions on everything can make it hard to find neutral ground in a relationship", "Paris location is not negotiable"],
+      "professionalAmbition": "Wants to write the book that French tech policy is built around for a decade. The podcast is building the audience for that book. The Le Monde column is building the credibility. It's a patient strategy."
+    }
+  },
+  {
+    "id": "noah-adeyemi-16",
+    "name": "Noah Adeyemi",
+    "age": 30,
+    "location": "Lagos, Nigeria",
+    "headline": "Founder & CTO · Agritech · Crop monitoring & smallholder finance",
+    "avatarUrl": "https://i.pravatar.cc/300?img=16",
+    "linkedInUrl": "https://linkedin.com/in/noah-adeyemi-agritech",
+    "instagramUrl": "https://instagram.com/noah.builds.africa",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Co-founder & CTO at FarmFlow NG — drone crop monitoring and embedded crop finance for smallholder farmers",
+        "YC W23 · $2.1M seed round · 14,000 farmers onboarded",
+        "University of Lagos CS · Carnegie Mellon MSc Software Engineering",
+        "Forbes Africa 30 Under 30 · 2024"
+      ],
+      "instagramHighlights": [
+        "Photos: Field visits across Ogun and Kaduna states, FarmFlow team builds, Afrobeats concert nights in VI",
+        "Stories: founder struggles without the LinkedIn polish, Lagos traffic takes, football with cousins",
+        "Caption style: honest and energising — 'visited a farmer today who showed me his yield data on the app. I kept it together. barely.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Noah is building something that actually matters in a context where the infrastructure challenges are ten times harder than in a well-funded Western market — and he's choosing to stay and build there rather than build for Lagos from somewhere easier. The Forbes 30 Under 30 doesn't appear anywhere on his Instagram. That is the signal.",
+      "coreValues": ["Impact", "Rootedness", "Resilience", "Honesty"],
+      "needs": ["Partner who understands what it means to build a company in Africa — not romantically but practically", "Lagos as base for now — expansion possible in 3-5 years but only when the company is ready", "Someone who can handle unpredictability in schedules without constructing a crisis from it", "Warmth and humour as a pressure valve — this life requires both"],
+      "hobbies": ["Football", "Afrobeats concert circuit", "Field visits he counts as rest", "Cooking jollof rice competitively"],
+      "lifestyleAndVibe": "Founder schedule — everything is the company until it suddenly, temporarily isn't. Lagos is home in a way that is structural and emotional and not up for debate. The Afrobeats nights are genuine recovery, not networking.",
+      "communicationStyle": "Direct, energetic, and honest in a way that is refreshing and occasionally jarring. Will tell you where the company actually is, not the polished version. Warm humour as the primary social register.",
+      "greenFlags": ["Stayed in Lagos when he could have taken the company to London or San Francisco", "Writes about failure on his blog without constructing a lesson that makes it all fine", "Pays his team before paying himself, has done this twice", "Introduces farmers by name in investor updates"],
+      "redFlags": ["Founder mode is total — partner is essentially sharing him with fourteen thousand farmers", "Lagos structural risks (power, security) are real and require partner engagement, not just tolerance", "Celebrates wins briefly and moves — doesn't linger in success in ways that restore"],
+      "professionalAmbition": "Wants to reach 500,000 smallholder farmers before the next fund raise. The exit is not the plan — the company being the infrastructure of West African agricultural finance is the plan."
+    }
+  },
+  {
+    "id": "lena-petersen-17",
+    "name": "Lena Petersen",
+    "age": 33,
+    "location": "Copenhagen, Denmark",
+    "headline": "Architect & Urban Designer · Sustainable Housing · BIG Alumni",
+    "avatarUrl": "https://i.pravatar.cc/300?img=42",
+    "linkedInUrl": "https://linkedin.com/in/lena-petersen-architect",
+    "instagramUrl": "https://instagram.com/lena.builds.cph",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Senior Architect at COBE, Copenhagen — specialising in social housing retrofits",
+        "Previously at BIG (Bjarke Ingels Group) for four years",
+        "Royal Danish Academy of Fine Arts, Architecture · 2016",
+        "Winner: Nordic Housing Award 2023 for a climate-adaptive social housing project"
+      ],
+      "instagramHighlights": [
+        "Photos: Copenhagen harbour swim spots, housing project construction visits, ceramic studio sessions",
+        "Stories: urban cycling, Nordic open-air swimming, long dinner parties",
+        "Caption style: dry Nordic warmth — 'winter harbour swimming is either a health practice or a cry for help. either way, highly effective.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Lena left BIG when the spectacle started to outweigh the service — social housing retrofits are not glamorous but they're what she wants to do with her career. The harbour swimming and the ceramic studio create a tactile, embodied counterbalance to architectural scale. She builds big things and makes small things with her hands and that balance is deliberate.",
+      "coreValues": ["Service through craft", "Physical engagement with the world", "Community", "Honesty"],
+      "needs": ["Partner who can engage with physical space meaningfully — even just having opinions about buildings", "Copenhagen as home — the harbour swim is non-negotiable, and it requires the harbour", "Shared table — long dinners with interesting people as a regular practice", "Someone who isn't performing their values but actually living them"],
+      "hobbies": ["Harbour swimming year-round", "Ceramics", "Urban cycling", "Long dinner parties"],
+      "lifestyleAndVibe": "Architecture hours on project cycles, then genuinely off. The harbour swim happens every morning that the ice doesn't prevent it — and she owns a wetsuit for when it does. Ceramic studio on Saturdays. Dinner parties are planned three weeks in advance and last five hours.",
+      "communicationStyle": "Warm and unhurried — takes her time with a sentence and means what she says. Direct about values; gentler about personal feelings. Physical warmth (hugs, shared food) is a primary expression.",
+      "greenFlags": ["Won an award for a project that 20 people will live in, not one that appears in magazines", "Has a ceramic bowl she made that she's using daily for six years and won't throw away", "Her dinner table includes her architect colleagues, the project site electrician, and her ceramic teacher", "Tells the truth about buildings even when the client doesn't want to hear it"],
+      "redFlags": ["Project-cycle intensity creates structural unavailability that's hard to predict", "Copenhagen commitment is deep — not geographically flexible without serious conversation", "Can be slow to articulate emotional needs until they've been unmet for too long"],
+      "professionalAmbition": "Wants to have designed the housing project that twenty families in Copenhagen are still living in and improving in 2045. Not interested in the architectural press; interested in the occupants' lives."
+    }
+  },
+  {
+    "id": "carlos-mendoza-18",
+    "name": "Carlos Mendoza",
+    "age": 26,
+    "location": "Mexico City, Mexico",
+    "headline": "Full-Stack Engineer · Fintech Infra · YC Startup | UNAM CS",
+    "avatarUrl": "https://i.pravatar.cc/300?img=19",
+    "linkedInUrl": "https://linkedin.com/in/carlos-mendoza-dev",
+    "instagramUrl": "https://instagram.com/carlosmx.dev",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Software Engineer at Arcus (YC W19) — open banking infrastructure for LATAM",
+        "Previously freelance building fintech tools for Mexican microenterprise",
+        "UNAM Computer Science · 2022",
+        "Side project: open-source SPEI payment library — 2k GitHub stars"
+      ],
+      "instagramHighlights": [
+        "Photos: CDMX colonia walks, taco research documentation, rooftop football evenings",
+        "Stories: dev blogs, local restaurant discoveries, family Sunday lunches in Coyoacán",
+        "Caption style: warm with CDMX specificity — 'found a taquería that only exists Tuesday through Thursday. this is the correct approach to business.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Carlos is building fintech infrastructure for Mexico because the payment system is genuinely broken and he's capable of fixing parts of it. The UNAM pedigree and the SPEI open-source work signal serious technical depth without any interest in signalling it. The taco research is conducted with the same rigour as the engineering work.",
+      "coreValues": ["Community", "Craftsmanship", "Rootedness", "Generosity"],
+      "needs": ["Partner who loves CDMX as a city in all its complexity, not as a destination", "Shared food obsession — this is a lifestyle requirement, not a preference", "Family as a central social structure that a partner participates in genuinely", "Someone who finds technical problems interesting, or at least doesn't need them to stop at dinner"],
+      "hobbies": ["Taco research (systematic)", "Rooftop football", "Family Sunday lunches", "Open-source contribution"],
+      "lifestyleAndVibe": "Startup hours Monday through Friday with real recovery on weekends. Coyoacán Sunday lunches are the fixed anchor — the family table is the social centre of gravity. CDMX is home in every layer — colonia, taquería, rooftop.",
+      "communicationStyle": "Warm, direct, and humorous in a very CDMX register — jokes that require city knowledge to parse. Earnest about the things he cares about. Follows through on small commitments reliably.",
+      "greenFlags": ["Published the SPEI library because the existing tools were bad, not for recognition", "Shows up for family events that require him to drive 45 minutes in CDMX traffic", "Asks about the work other people are doing with genuine interest", "Has taken on two junior engineers as informal mentors without calling it that"],
+      "redFlags": ["Startup pace means availability is variable in ways that don't improve with planning", "CDMX rootedness is deep — remote-first doesn't mean geographically flexible", "Family social structure is central and requires partner engagement, not just coexistence"],
+      "professionalAmbition": "Wants to be part of building the payment infrastructure that makes financial inclusion in LATAM actually possible — not the dashboard layer but the pipe layer. The open-source work is a proof of concept for the kind of engineer he wants to be."
+    }
+  },
+  {
+    "id": "ingrid-lund-19",
+    "name": "Ingrid Lund",
+    "age": 32,
+    "location": "Oslo, Norway",
+    "headline": "Marine Biologist · Kelp Restoration · Nansen Environmental Centre",
+    "avatarUrl": "https://i.pravatar.cc/300?img=41",
+    "linkedInUrl": "https://linkedin.com/in/ingrid-lund-marine",
+    "instagramUrl": "https://instagram.com/ingrid.underwater",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Marine Biologist, Nansen Environmental and Remote Sensing Centre, Bergen",
+        "PhD: University of Bergen, Marine Ecology · 2019 · Kelp forest carbon sequestration",
+        "Lead researcher: Sognefjord Kelp Restoration Project — 3 years in",
+        "Freediver: AIDA 3-star"
+      ],
+      "instagramHighlights": [
+        "Photos: Sognefjord freediving shots, kelp forest underwater documentation, Bergen in fog",
+        "Stories: fieldwork logistics, slow tide pool walks, whale song recordings",
+        "Caption style: scientific warmth — 'kelp grows 50cm in a week if you let it. I am slower. we balance each other.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Ingrid is working on a restoration project that will take 20 years to evaluate properly, and she's fine with that. The freediving isn't a sport — it's fieldwork that requires her to be physically present in the environment she's studying. The Bergen fog aesthetic is not a filter choice; it's the actual weather.",
+      "coreValues": ["Patience", "Ecological connection", "Rigour", "Solitude"],
+      "needs": ["Partner who can be in natural spaces without needing to narrate them", "Norway or remote-friendly arrangement — the fjord is a physical requirement of the work", "Someone comfortable with long silences and long seasons of darkness", "Deep conversations that go somewhere, not social surface area"],
+      "hobbies": ["Freediving", "Tide pool walks", "Fieldwork as leisure", "Whale sound recording"],
+      "lifestyleAndVibe": "Fieldwork rhythm — extended fjord periods followed by Bergen office weeks. Very small social circle of people she trusts deeply. The darkness and cold are not problems to solve; they're part of the habitat. Winter is the favourite season.",
+      "communicationStyle": "Quiet and patient — will not rush to fill silence and doesn't expect others to. When she speaks, it lands. Scientific communication is clear and precise; personal communication is slower and more considered.",
+      "greenFlags": ["Has spent three years on a project she won't be able to report results on for another fifteen", "Her Instagram has 22k followers she doesn't know what to do with", "Brings non-scientific friends to fieldwork sites and explains everything without condescending", "Has one close friend she's known since primary school who she still sees quarterly"],
+      "redFlags": ["Work location is remote and fieldwork season-dependent — partner needs to be independently settled", "Introvert depth requirement means social surface area is very limited", "Emotionally self-sufficient in ways that can read as distance — she needs to be prompted to share what she needs"],
+      "professionalAmbition": "Wants to see kelp forests restored across 2,000 hectares of Norwegian coastline before she retires. The paper count is secondary. Defines success as water temperature data in 2040 showing the projections were right."
+    }
+  },
+  {
+    "id": "felix-bauer-20",
+    "name": "Felix Bauer",
+    "age": 30,
+    "location": "Zurich, Switzerland",
+    "headline": "Quantitative Researcher · Crypto & DeFi · Independent · ex-Two Sigma",
+    "avatarUrl": "https://i.pravatar.cc/300?img=20",
+    "linkedInUrl": "https://linkedin.com/in/felix-bauer-quant",
+    "instagramUrl": "https://instagram.com/felixbauer.zurich",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Independent Quantitative Researcher — DeFi market microstructure",
+        "Previously at Two Sigma Investments, equities desk · 3 years",
+        "ETH Zurich Mathematics PhD · 2020",
+        "Author: 'DeFi Mechanics' Substack — 18k subscribers"
+      ],
+      "instagramHighlights": [
+        "Photos: Swiss Alpine touring routes, Zurich lakeside runs, chess games mid-match",
+        "Stories: math puzzle posts, quiet weekends in Graubünden, the occasional Zermatt shot",
+        "Caption style: minimal and precise — 'the lake at 6am is the only meeting that starts on time.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Felix left Two Sigma to research what he actually finds interesting — which takes more courage than most quants demonstrate. The DeFi microstructure work is intellectually serious, not hype-adjacent. The Alpine touring and the chess create a physical and strategic counterbalance. Self-directed to an unusual degree.",
+      "coreValues": ["Intellectual freedom", "Precision", "Autonomy", "Physical challenge"],
+      "needs": ["Partner who doesn't need his attention to be constant — he thinks in long uninterrupted blocks", "Shared Alpine or outdoor physical practice", "Intellectual peer status — not the same field, but equivalent depth", "Zurich or remote — the independent research model is location-flexible within reason"],
+      "hobbies": ["Alpine ski touring", "Chess", "Zurich lake running", "Mathematical writing"],
+      "lifestyleAndVibe": "Extremely autonomous schedule — research blocks from 7am to 1pm, exercise in the afternoon, Substack writing in the evenings. The Alpine weekends are solo or with one specific person. Very small social footprint with high quality.",
+      "communicationStyle": "Precise and minimal — says the thing he means and doesn't pad it. Warm in ways that emerge slowly and then are unmistakable. Chess as social activity: comfortable with long silences, interested in the move, not the clock.",
+      "greenFlags": ["Left a lucrative and prestigious role to do the work he found more interesting — told nobody it was brave", "The Substack is paywalled at a price that filters for serious readers and he's fine with 18k", "Has a standing chess game with a retired professor that's been going for two years", "Shows up physically for important occasions and is otherwise fully remote"],
+      "redFlags": ["Intellectual independence means he's very hard to reach when in a work block", "Financial independence via crypto research is real but opaque to explain", "Very self-sufficient — expressing need for another person is slow and not natural"],
+      "professionalAmbition": "Wants to write the definitive market microstructure analysis of early DeFi before the next cycle makes it impossible to study objectively. The Substack is the working notes. The book is when they're ready."
+    }
+  },
+  {
+    "id": "aiko-yamamoto-21",
+    "name": "Aiko Yamamoto",
+    "age": 28,
+    "location": "Kyoto, Japan",
+    "headline": "Traditional Craft Entrepreneur · Ceramics × Tech · Kyoto JET Graduate",
+    "avatarUrl": "https://i.pravatar.cc/300?img=51",
+    "linkedInUrl": "https://linkedin.com/in/aiko-yamamoto-craft",
+    "instagramUrl": "https://instagram.com/aiko.kyoto.ceramics",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Founder, Shizen Ceramics — linking Kyoto ceramics studios with global direct-to-consumer sales",
+        "Previously JET Programme participant, Kyoto English teacher",
+        "Doshisha University, International Relations · 2018",
+        "Featured: Kyoto Shimbun, Monocle (Japan artisan issue)"
+      ],
+      "instagramHighlights": [
+        "Photos: Kyoto studio sessions, tea ceremony mornings, Fushimi Inari hikes at dawn",
+        "Stories: studio ceramics process, Nishiki Market ingredient sourcing, seasonal temple visits",
+        "Caption style: meditative and specific — 'waited three months for this glaze to fire correctly. patience is not passive.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Aiko is doing something that very few people manage — building a sustainable business around a craft tradition without destroying what makes the craft worth preserving. The JET Programme background explains the international frame. The ceramics studio is genuine practice, not just product sourcing.",
+      "coreValues": ["Patience", "Cultural continuity", "Craft", "Mindfulness"],
+      "needs": ["Partner who understands slow timelines and values things that take three months", "Kyoto as home — the temple rhythm and the ceramic tradition are location-specific", "Shared appreciation for process over outcome", "Someone who finds beauty in repetition rather than novelty"],
+      "hobbies": ["Ceramics practice", "Tea ceremony", "Fushimi Inari dawn hikes", "Nishiki Market sourcing"],
+      "lifestyleAndVibe": "Studio mornings, market afternoons, temple evenings when the season allows. Kyoto rhythm is slow and specific — the city has its own pace and she has surrendered to it. Monocle feature not mentioned on Instagram; the pots are.",
+      "communicationStyle": "Quiet and deliberate — she thinks about what she wants to say before she says it. Warm through the medium of making: food, tea, objects. Written communication is careful and a little formal until trust is established.",
+      "greenFlags": ["Runs the business without compromising the ceramicists who supply her", "Patient with confusion — teaches without condescension", "Has a tea ceremony practice she has maintained for five years without treating it as content", "Returns to the same three places in Kyoto seasonally and notices what's changed"],
+      "redFlags": ["Kyoto location is non-negotiable in the near term", "Slow timelines that work for ceramics don't always work for relationships", "Very internal processing style — partner needs to initiate check-ins rather than wait"],
+      "professionalAmbition": "Wants Shizen to still exist in 50 years supporting the same studios, evolved but uncompromised. Not interested in scaling in the growth-stage sense. Interested in depth and longevity."
+    }
+  },
+  {
+    "id": "samuel-osei-22",
+    "name": "Samuel Osei",
+    "age": 31,
+    "location": "Accra, Ghana",
+    "headline": "Healthcare Entrepreneur · Digital Health · Ghana Health Service Partner",
+    "avatarUrl": "https://i.pravatar.cc/300?img=21",
+    "linkedInUrl": "https://linkedin.com/in/samuel-osei-health",
+    "instagramUrl": "https://instagram.com/samuel.osei.gh",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Co-founder & CEO, MedLink GH — EHR and telemedicine for Ghanaian district hospitals",
+        "Ashesi University CS · 2016",
+        "MedLink: 45 partner hospitals, 200k patient records managed",
+        "World Economic Forum Young Global Leader 2024"
+      ],
+      "instagramHighlights": [
+        "Photos: Accra clinic visits, family gatherings in Kumasi, beach sunsets at Labadi",
+        "Stories: health system reform debates, Afrobeats workout playlists, football",
+        "Caption style: urgent and warm — 'a nurse showed me her paper patient record system today. MedLink exists because of this moment, multiplied by forty-five hospitals.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Samuel is solving an infrastructure problem that directly affects how many people live and die in Ghana — and he leads with the nurse's paper record, not the 200k patient statistic. The WEF Young Global Leader doesn't appear anywhere in his recent social content. These are the tells of someone who is actually motivated by the problem.",
+      "coreValues": ["Service", "Impact", "Family", "Resilience"],
+      "needs": ["Partner who sees building in Ghana as meaningful work, not a romantic challenge", "Accra as base — Kumasi family as extended home", "Warmth and energy as the primary registers", "Someone who can be completely present on weekends and understand complete absence on launch weeks"],
+      "hobbies": ["Football", "Afrobeats", "Beach at Labadi", "Family gatherings in Kumasi"],
+      "lifestyleAndVibe": "Founder schedule with strong family rhythm — Kumasi trips are quarterly and non-negotiable. Accra social life is warm and loud. The Labadi beach afternoons are genuinely restorative.",
+      "communicationStyle": "High-energy, warm, and persuasive in a way that reads as genuine rather than practiced. Earnest about the work. Humorous as a way of making difficult conversations possible.",
+      "greenFlags": ["Has turned down acqui-hire offers that would have improved his personal financial position", "Has a family business history that informs his understanding of what long-term building requires", "Celebrates the team before himself in every company announcement", "Has remained in Accra through three periods when leaving would have been professionally easier"],
+      "redFlags": ["Company at a stage where it is the primary relationship, structurally", "Family expectation framework includes partnership and children timelines that are clearly held even if not stated", "Travel for hospital partnerships is heavy and unpredictable"],
+      "professionalAmbition": "Wants MedLink running in 15 African countries, owned and operated locally, before 2035. Defines exit as the system functioning without him, not a sale."
+    }
+  },
+  {
+    "id": "julia-novak-23",
+    "name": "Julia Novak",
+    "age": 29,
+    "location": "Vienna, Austria",
+    "headline": "Concert Pianist · Touring Artist · Chopin Institute Graduate",
+    "avatarUrl": "https://i.pravatar.cc/300?img=40",
+    "linkedInUrl": "https://linkedin.com/in/julia-novak-piano",
+    "instagramUrl": "https://instagram.com/julianovak.piano",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Concert Pianist, self-managed — major venues: Musikverein, Konzerthaus Wien, Wigmore Hall",
+        "Chopin Institute Warsaw Graduate, 2019",
+        "Three solo recordings: Debussy, Ravel, Brahms — released on independent label",
+        "Masterclass teacher: summer programs in Salzburg and Lyon"
+      ],
+      "instagramHighlights": [
+        "Photos: practice room mornings, European city concert venues, very specific pastry documentation",
+        "Stories: sheet music markings, pre-concert rituals, post-concert solitude",
+        "Caption style: intense and precise — 'four hours on the same eight bars today. this is called progress.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Julia is a working concert pianist who manages herself — which means she is simultaneously the artist, the agent, and the business, and she's doing it at a level that gets her into Wigmore Hall. The pastry documentation is genuinely amusing and slightly incongruous next to the four-hours-on-eight-bars posts. She is very serious and not at all humorless.",
+      "coreValues": ["Craft", "Discipline", "Beauty", "Solitude"],
+      "needs": ["Partner who understands practice schedules as non-negotiable and not anti-social", "Vienna as home base — the Musikverein relationship is geographical", "Emotional warmth that doesn't require verbal processing of everything", "Someone who actually listens to music, not just uses it"],
+      "hobbies": ["Piano practice (this is not a hobby; it is her life)", "European pastry research", "Long Vienna walks", "Teaching masterclasses"],
+      "lifestyleAndVibe": "Practice from 9am to 2pm, administration and teaching in the afternoons, performances and travel when the schedule requires. Vienna is the anchor. Touring creates structural absence that requires a partner who is independently settled.",
+      "communicationStyle": "Intense and precise — economy of language reflects the economy she applies to music. Warm once the performance register is off. Humorous in unexpected ways that don't fit the concert venue aesthetic.",
+      "greenFlags": ["Self-manages the career without compromising the artistic choices", "Teaches masterclasses with specific and actionable feedback that students describe as 'brutal and necessary'", "Has a relationship with silence that is functional and not eerie — comfortable being in the same room without conversation", "Has been playing the same Steinway at the same studio for four years and notices every change"],
+      "redFlags": ["Practice schedule is the structural priority around which everything else must fit", "Touring creates unavoidable absences that aren't negotiable", "Intensity of focus in professional life carries into personal life in ways that require active recalibration"],
+      "professionalAmbition": "Wants to record the complete Brahms Intermezzo cycle and have it be the recording she's remembered for. Independent label means the decisions are hers. The Wigmore Hall residency is the credentialing. The recording is the work."
+    }
+  },
+  {
+    "id": "ethan-brooks-24",
+    "name": "Ethan Brooks",
+    "age": 34,
+    "location": "Toronto, Canada",
+    "headline": "Social Impact VC · Education & Workforce · Partner at Bridgepoint Capital",
+    "avatarUrl": "https://i.pravatar.cc/300?img=22",
+    "linkedInUrl": "https://linkedin.com/in/ethan-brooks-vc",
+    "instagramUrl": "https://instagram.com/ethanbrooks.to",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "Partner at Bridgepoint Capital — $120M fund focused on education and workforce mobility",
+        "Previously VP at MaRS Discovery District, social innovation desk",
+        "Queen's University Economics, UBC MBA",
+        "Board: Canadian Education Futures Council; Angel: 11 workforce tech companies"
+      ],
+      "instagramHighlights": [
+        "Photos: Toronto Raptors games, Kensington Market Saturday mornings, Muskoka lake weekends",
+        "Stories: founder portfolio updates, education policy reads, honest parenting observations",
+        "Caption style: warm and considered — 'took my daughter to her first Raptors game. she fell asleep in the fourth quarter and I have never been prouder.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Ethan is doing impact investing at a scale that requires him to be both a capital allocator and a policy thinker, and he's doing it in Canada rather than Silicon Valley, which is a choice that reflects a genuine set of priorities. The Muskoka lake and the Raptors games are not Instagram content — they're how he actually recharges. The parenting post about his daughter falling asleep is the most revealing thing on his profile.",
+      "coreValues": ["Impact", "Family", "Intellectual engagement", "Community"],
+      "needs": ["Partner who shares the Toronto rootedness — the city, the institutions, the winters", "Family as the central structure — he has a daughter, this is the context", "Warmth and humour as primary registers outside the fund", "Someone with their own strong professional identity who doesn't orbit his"],
+      "hobbies": ["Raptors games", "Muskoka lake (seasonal anchor)", "Kensington Market", "Education policy reading"],
+      "lifestyleAndVibe": "Fund schedule with protected Saturday mornings and Muskoka weekends in summer. Single parent on his weeks with his daughter — the schedule is what it is and requires a partner who can work with it. Genuinely present when present.",
+      "communicationStyle": "Warm and measured — builds trust slowly and invests heavily once it's established. Asks good questions and remembers the answers. Humour is gentle and dry.",
+      "greenFlags": ["Has turned down opportunities in New York and San Francisco to stay in Toronto near his daughter", "Board work pays nothing and is done because he thinks education policy matters", "Has maintained his co-parenting relationship in a way that is apparently functional and respectful", "Introduces portfolio founders by their real struggles, not their metrics"],
+      "redFlags": ["Single parent schedule means availability is structured around custody — requires partner flexibility", "Impact investing is not financially analogous to traditional VC — lifestyle is good, not exceptional", "Very measured trust-building means relationship pace is slow and hard to accelerate"],
+      "professionalAmbition": "Wants Bridgepoint to be the fund that proves social impact and financial return aren't a trade-off in education. The thesis is long. The portfolio is patient capital. The exit is a generation of learners who had better options."
+    }
+  },
+  {
+    "id": "sofia-reyes-25",
+    "name": "Sofia Reyes",
+    "age": 27,
+    "location": "Buenos Aires, Argentina",
+    "headline": "AI Ethics Researcher · NLP Bias · CONICET Fellow | UBA",
+    "avatarUrl": "https://i.pravatar.cc/300?img=39",
+    "linkedInUrl": "https://linkedin.com/in/sofia-reyes-ai-ethics",
+    "instagramUrl": "https://instagram.com/sofia.reyes.ba",
+    "sourceSnapshot": {
+      "linkedinHighlights": [
+        "CONICET Doctoral Researcher — AI bias in Spanish NLP models",
+        "UBA Computer Science, ongoing PhD · Expected 2026",
+        "Published: 'Measuring representational bias in Spanish language models' — ACL 2024",
+        "Co-organiser: LatAm AI Safety community, 400+ researchers"
+      ],
+      "instagramHighlights": [
+        "Photos: Buenos Aires bookshops, milonga nights in San Telmo, Palermo parks on Sunday",
+        "Stories: Spanish-language AI ethics threads, mate rituals, impromptu asados",
+        "Caption style: warm and politically engaged — 'models trained on mostly English data see the world mostly through an English lens. this is worth caring about, regardless of where you live.'"
+      ]
+    },
+    "analysis": {
+      "summary": "Sofia is doing AI ethics research in Spanish, about Spanish language models, from Buenos Aires — which means she's working on a problem that the English-language AI safety community consistently overlooks and which affects 500 million people. The milonga and the asados signal a person who is intellectually serious without being socially austere.",
+      "coreValues": ["Equity", "Intellectual courage", "Community", "Cultural specificity"],
+      "needs": ["Partner who takes AI ethics seriously or at least understands why it matters", "Buenos Aires as home — the city's intellectual energy and social warmth are features, not bugs", "Warmth through shared meals and shared evenings", "Someone who finds Spanish-language culture interesting rather than using English as the default"],
+      "hobbies": ["Tango (milonga nights in San Telmo)", "Buenos Aires bookshops", "Asado as social ritual", "Palermo parks"],
+      "lifestyleAndVibe": "PhD schedule — writing and research during the week, milonga on Friday nights, asado on Sundays. Palermo is the neighbourhood. Buenos Aires is the context. The mate ritual happens three times a day and is not optional.",
+      "communicationStyle": "Warm and intellectually engaged — asks the actually interesting question and wants a real answer. Politically engaged in ways that show in how she talks about her work. Switches naturally between careful academic register and warm Buenos Aires social register.",
+      "greenFlags": ["Organised a 400-person research community voluntarily and kept it running without institutional support", "Her ACL paper was specifically about the problem she saw in tools she uses every day", "Explains her research to her grandmother and to the AI Safety community with equal care", "Has been to more asados than conferences and is proud of it"],
+      "redFlags": ["Buenos Aires is non-negotiable for the PhD timeline and deeply preferred beyond it", "Politically engaged in ways that require a partner who can participate or at minimum not obstruct", "Academic uncertainty (CONICET funding, Argentine economic instability) creates structural unpredictability"],
+      "professionalAmbition": "Wants her work to be the reason that the next generation of Spanish NLP models is built with a different set of assumptions. Success is when her framework gets cited in the dataset card of something she didn't build."
+    }
+  }
+]
